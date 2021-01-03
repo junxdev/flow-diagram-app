@@ -11,6 +11,10 @@
 # production
 /build
 
+# intelliJ IDE
+.eslintcache
+.idea/
+
 # misc
 .DS_Store
 .env.local
